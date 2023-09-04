@@ -1,6 +1,7 @@
 <template>
   <div>
     <navigationBar />
+    <theHeader />
   </div>
 </template>
 <style>
