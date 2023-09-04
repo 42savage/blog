@@ -2,6 +2,7 @@
   <div>
     <navigationBar />
     <theHeader />
+    <lastestPosts />
   </div>
 </template>
 <style>
