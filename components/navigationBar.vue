@@ -1,7 +1,7 @@
 <template>
   <div class="navWrapper">
     <button><icons-searchIcon /></button>
-    <p class="logo"><b>dev</b>blog</p>
+    <theLogo />
     <button><icons-hamburgerIcon /></button>
   </div>
 </template>
@@ -22,8 +22,5 @@ button {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-}
-.logo {
-  font-size: 24px;
 }
 </style>

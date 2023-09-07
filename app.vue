@@ -3,6 +3,7 @@
     <navigationBar />
     <theHeader />
     <lastestPosts />
+    <theFooter />
   </div>
 </template>
 <style>
